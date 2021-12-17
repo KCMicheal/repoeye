@@ -23,4 +23,10 @@ const getRepos = async ({
     }
 };
 
-getRepos().then((repositories) => console.log(repositories));
+// getRepos({
+//     username: 'gaearon',
+//     page: 1,
+//     per_page: 50
+// }).then((repositories) => console.log(repositories));
+
+module.exports = { getRepos };
