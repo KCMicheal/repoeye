@@ -6,7 +6,7 @@
   "homepage": "https://github.com/kcmicheal/repoeye",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kcmicheal.com/repoeye"
+    "url": "git+https://github.com/kcmicheal/repoeye"
   },
   "devDependencies": {},
   "scripts": {
